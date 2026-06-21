@@ -1,0 +1,6 @@
+{
+  "parent": "goose_universalcapsule:item/universal_capsule",
+  "textures": {
+    "layer0": "goose_universalcapsule:item/universal_capsule_style_28"
+  }
+}

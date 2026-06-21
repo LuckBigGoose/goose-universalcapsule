@@ -1,0 +1,315 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "goose_universalcapsule:item/universal_capsule_style_1"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        1
+      ],
+      "scale": [
+        0.41,
+        0.41,
+        0.41
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        1
+      ],
+      "scale": [
+        0.41,
+        0.41,
+        0.41
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.51,
+        0.51,
+        0.51
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.51,
+        0.51,
+        0.51
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.64,
+        0.64,
+        0.64
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.0
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_0"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.01
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_1"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.02
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_2"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.03
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_3"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.04
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_4"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.05
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_5"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.06
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_6"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.07
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_7"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.08
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_8"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.09
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_9"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.1
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_10"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.11
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_11"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.12
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_12"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.13
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_13"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.14
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_14"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.15
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_15"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.16
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_16"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.17
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_17"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.18
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_18"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.19
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_19"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.2
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_20"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.21
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_21"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.22
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_22"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.23
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_23"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.24
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_24"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.25
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_25"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.26
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_26"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.27
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_27"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.28
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_28"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.29
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_29"
+    },
+    {
+      "predicate": {
+        "goose_universalcapsule:capsule_style": 0.3
+      },
+      "model": "goose_universalcapsule:item/universal_capsule_30"
+    }
+  ]
+}
